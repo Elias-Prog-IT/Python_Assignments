@@ -1,4 +1,4 @@
-#Prints out the amount of '#' that the user inputs.
+#Prints out the amount of '#' that the user inputs as integer.
 
 n = int(input("n: "))
 
