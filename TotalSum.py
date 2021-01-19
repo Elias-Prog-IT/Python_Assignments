@@ -1,4 +1,4 @@
-#Recieves input from the user and prints out the total sum of that input
+#Recieves input from the user and prints out the total sum of all the inputs.
 
 total = 0
 
